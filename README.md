@@ -5,7 +5,7 @@
 </p>
 
 
-## References:
+## References for question dataset:
 - N. Kushman, Y. Artzi, L. Zettlemoyer, R. Barzilay, Learning to Automatically Solve Algebra Word Problems ([link](https://aclanthology.org/P14-1026.pdf))
 - N. Kushman, Y. Artzi, L. Zettlemoyer, R. Barzilay, ALG-514 dataset ([link](https://groups.csail.mit.edu/rbg/code/wordprobs/))  
 - S. Upadhyay, M.-W. Chang, DRAW: A Challenging and Diverse Algebra Word Problem Set, ([link](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tech_rep.pdf))
