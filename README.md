@@ -17,16 +17,9 @@
 </p>
 
 ## Contributing guidelines
-You can contribute by helping us ask **ChatGPT** questions! You can use the preexisting question sets or use your own! All help is welcome!  
-Make sure your files are named in the following format 
-```
-[github username]__[chatgpt version]_v[run number]
-```  
-- `[github username]` - Your GitHub username.
-- `[chatgpt version]` - If you asked ChatGPT questions on the web app, call it `web`. If you used OpenAI's API, specify the model.  
-- `[run number]` - This is the number of times you've ran ChatGPT through the dataset. For example, if you have asked ChatGPT the same questions twice,   
-`[run number]` should be `2`.  
-
+You can contribute by helping us ask **ChatGPT** questions! 
+- You can use the preexisting question sets or use your own! 
+- If you use your own question set, be sure to include it in the pull request.
 
 ## References for question dataset:
 - N. Kushman, Y. Artzi, L. Zettlemoyer, R. Barzilay, Learning to Automatically Solve Algebra Word Problems ([link](https://aclanthology.org/P14-1026.pdf))
