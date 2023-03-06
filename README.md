@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
+</p>
+
+<p align="center">
 	<a href="https://github.com/hwelsters/sleepyresponse/stargazers">
 		<img alt="Stargazers" src="https://img.shields.io/github/stars/hwelsters/sleepyresponse?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41"></a>
 	<a href="https://github.com/hwelsters/sleepyresponse/releases/latest">
@@ -12,9 +16,6 @@
 		<img alt="Issues" src="https://img.shields.io/github/issues/hwelsters/sleepyresponse?style=for-the-badge&logo=gitbook&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"></a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
-</p>
 
 ## Contributing guidelines
 You can contribute by helping us ask **ChatGPT** questions! 
