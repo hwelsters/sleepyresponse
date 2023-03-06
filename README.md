@@ -4,6 +4,17 @@
   A dataset consisting of ChatGPT's answers to various math problems. 
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
+</p>
+
+<p align="center">
+	<a href="https://github.com/hwelsters/sleepyresponse/stargazers">
+		<img alt="Stargazers" src="https://img.shields.io/github/stars/hwelsters/sleepyresponse?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41"></a>
+	<a href="https://github.com/hwelsters/sleepyresponse/releases/latest">
+	<a href="https://github.com/hwelsters/sleepyresponse/issues">
+		<img alt="Issues" src="https://img.shields.io/github/issues/hwelsters/sleepyresponse?style=for-the-badge&logo=gitbook&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"></a>
+</p>
 
 ## References for question dataset:
 - N. Kushman, Y. Artzi, L. Zettlemoyer, R. Barzilay, Learning to Automatically Solve Algebra Word Problems ([link](https://aclanthology.org/P14-1026.pdf))
