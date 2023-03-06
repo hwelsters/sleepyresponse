@@ -20,6 +20,7 @@
 You can contribute by helping us ask **ChatGPT** questions! 
 - You can use the preexisting question sets or use your own! 
 - If you use your own question set, be sure to include it in the pull request.
+- All new question datasets should come with references. Be sure to properly credit sources!
 
 ## References for question dataset:
 - N. Kushman, Y. Artzi, L. Zettlemoyer, R. Barzilay, Learning to Automatically Solve Algebra Word Problems ([link](https://aclanthology.org/P14-1026.pdf))
