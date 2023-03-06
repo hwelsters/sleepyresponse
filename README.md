@@ -1,9 +1,25 @@
-![image](https://user-images.githubusercontent.com/84760072/222894076-94ed5c17-d8dc-4b13-b6ad-180c7fdd6059.png)
+![image](https://user-images.githubusercontent.com/84760072/223042200-86e55c12-571c-47ab-8c74-57d225da4943.png)
 
 <p align="center">
-  A dataset consisting of ChatGPT's answers to various math problems. 
+  A dataset consisting of ChatGPT's answers to various question sets. 
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="400" />
+</p>
+
+<p align="center">
+	<a href="https://github.com/hwelsters/sleepyresponse/stargazers">
+		<img alt="Stargazers" src="https://img.shields.io/github/stars/hwelsters/sleepyresponse?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41"></a>
+	<a href="https://github.com/hwelsters/sleepyresponse/releases/latest">
+	<a href="https://github.com/hwelsters/sleepyresponse/issues">
+		<img alt="Issues" src="https://img.shields.io/github/issues/hwelsters/sleepyresponse?style=for-the-badge&logo=gitbook&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"></a>
+</p>
+
+## Contributing guidelines
+You can contribute by helping us ask **ChatGPT** questions! 
+- You can use the preexisting question sets or use your own! 
+- If you use your own question set, be sure to include it in the pull request.
 
 ## References for question dataset:
 - N. Kushman, Y. Artzi, L. Zettlemoyer, R. Barzilay, Learning to Automatically Solve Algebra Word Problems ([link](https://aclanthology.org/P14-1026.pdf))
