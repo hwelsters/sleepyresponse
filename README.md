@@ -1,4 +1,8 @@
-![image](https://user-images.githubusercontent.com/84760072/223285630-98cf3025-6fb0-4b8c-90ad-18b5c71ed2fb.png)
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/84760072/223321587-7255dc7b-aa80-41e5-b099-cdcd15975475.png" width="600" />
+</p>
 
 <p align="center">
   A dataset consisting of ChatGPT's answers to various question sets. 
