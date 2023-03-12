@@ -1,3 +1,10 @@
+<p align="center">
+  <p align="center">
+  All file names have the following format:  <br/>
+  <code>[author name]</code>__<code>[model name]</code>__<code>[version number]</code>  
+  </p>
+</p>
+<br/>
 
 | File name                                         | Model           | Details                          | 
 | ---                                               | ---             | ---                              | 
